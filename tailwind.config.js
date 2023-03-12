@@ -29,7 +29,7 @@ module.exports = {
       },
       backgroundImage:
         {
-          'bg1' : 'url("https://s10.gifyu.com/images/bg.png")'
+          'bg1' : 'url("https://s10.gifyu.com/images/codehashdev_dark_background_of_space_including_small_stars_and__f4851425-caa8-42b3-9063-7707265e3155.png")'
         }
 
     }

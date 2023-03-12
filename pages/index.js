@@ -17,8 +17,8 @@ const ArrowClickedHnadler= () => {
   return (
     <>
       <Head>
-        <title>Skelee-Mini-web01</title>
-        <meta name="Description" content="skelee-mini-web" />
+        <title>Numerlogy-site-demo</title>
+        <meta name="Description" content="webdemo" />
         <link rel="icon" href="/Logoicon.png" />
       </Head>
       
